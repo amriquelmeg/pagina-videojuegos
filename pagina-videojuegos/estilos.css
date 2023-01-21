@@ -32,4 +32,42 @@ a:hover {
 a:active {
     background-color: rgb(224, 91, 213);
 }
-table {width: 100%;}
+
+table {
+    width: 100%;
+}
+
+.cabecera {
+    color: #ff9;
+    background-color: #000;
+    padding: 10px;
+}
+
+.contenedor {
+    margin: 0 auto;
+
+}
+
+.contenido {
+    background-color: #ddd;
+
+    padding: 10px;
+}
+
+.pie {
+    background-color: #bbb;
+    color: #900;
+    padding: 10px;
+    text-align: center;
+    height: 30px;
+    font-size: 20px;
+}
+
+.enlaces {
+    background-color: rgb(114, 34, 78);
+    color: rgb(42, 119, 163);
+    padding: 10px;
+    text-align: center;
+    font-size: 20px;
+
+}
